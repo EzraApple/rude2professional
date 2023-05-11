@@ -1,4 +1,4 @@
-# rude_into_professional
+# rude2professional
 Command line script that outputs a more professional version of a rude prompt using OpenAI API. Inspired by a roommate having to tell off a group member on a project over a lack of contribution.
 
 To use the script, you must replace the "YOUR KEY HERE" in main.py with your own API secret key
